@@ -1,6 +1,6 @@
 ## Анализ смыслов слова "сознание" в НКРЯ
 
-Контакты: [ТГ: @mkoninin](tg://resolve?domain=mkoninin), [mkoninin@gmail.com](mailto:mkoninin@gmail.com), 
+Контакты: [ТГ: @mkoninin](tg://resolve?domain=mkoninin), [mkoninin@gmail.com](mailto:mkoninin@gmail.com)
 
 Я давно хотел попробовать сделать тематический анализ смыслов слова "сознание" в корпусе русского языка. 
 
