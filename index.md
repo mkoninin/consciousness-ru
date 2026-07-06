@@ -58,3 +58,6 @@
 ## Ссылки
 - [Подробный анализ](theme_text_3.md)
 - [Исходные данные](artefact_text_3.md)
+
+
+#### Контакты: [ТГ: @mkoninin](tg://resolve?domain=mkoninin), [mkoninin@gmail.com](mailto:mkoninin@gmail.com)
