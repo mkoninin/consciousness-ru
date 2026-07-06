@@ -39,6 +39,6 @@
 
 Gemma4-26B-A4B отработала хорошо. Как я и ожидал, есть моменты где у нее не получилось. Но так же она нашла интересные смыслы. Для локальной быстрой модели - хороший результат.
 
-[1] - Jowsey, T., Braun, V., Clarke, V., Lupton, D., & Fine, M. (2025). We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research. Qualitative Inquiry, 0(0). https://doi.org/10.1177/10778004251401851
-[2] - De Paoli, S. (2026). Can Machines Perform a Qualitative Data Analysis? Reading the Debate With Alan Turing. Social Science Computer Review, 0(0). https://doi.org/10.1177/08944393261451707
-[3] - https://ruscorpora.ru/corpus/gicr
+- [1] - Jowsey, T., Braun, V., Clarke, V., Lupton, D., & Fine, M. (2025). We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research. Qualitative Inquiry, 0(0). https://doi.org/10.1177/10778004251401851
+- [2] - De Paoli, S. (2026). Can Machines Perform a Qualitative Data Analysis? Reading the Debate With Alan Turing. Social Science Computer Review, 0(0). https://doi.org/10.1177/08944393261451707
+- [3] - https://ruscorpora.ru/corpus/gicr
